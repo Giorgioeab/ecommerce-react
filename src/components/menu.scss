@@ -1,0 +1,37 @@
+button{
+    position: fixed;
+    top: 24px;
+    left: 24px;
+    z-index: 10;
+}
+nav{
+    background: linear-gradient(to bottom right, #037, #05b);
+    position: fixed;
+    height: 100%;
+    top:0;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 5;
+    transition:  all 0.3s;
+    transform: translateX(-100%);
+
+    &.open{
+        transform: translateX(0);
+    }
+    
+    ul{
+        list-style-type: none;
+        padding: 0;
+        flex-grow: 1;
+        li{
+            a{
+                display: block;
+                color: #fff;
+                text-align: center;
+                padding: 8px 16px;
+            }
+        }
+    }
+}
