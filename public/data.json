@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "title": "What is the return policy?",
+    "description": "Lorem ipsum dolor sit amet consectetur."
+  },
+  {
+    "id": 1,
+    "title": "How do you use the coupons?",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quaerat impedit? Explicabo, atque maiores, tempora enim aliquid, sed praesentium libero at quasi repudiandae rerum repellat voluptatem consequuntur. Ducimus, qui soluta. Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quaerat impedit? Explicabo, atque maiores, tempora enim aliquid, sed praesentium libero at quasi repudiandae rerum repellat voluptatem consequuntur. Ducimus, qui soluta."
+  },
+  {
+    "id": 2,
+    "title": "How do I become a member?",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, quaerat impedit? Explicabo, atque maiores, tempora enim aliquid, sed praesentium libero at quasi repudiandae rerum repellat voluptatem consequuntur. Ducimus, qui soluta."
+  }
+]
